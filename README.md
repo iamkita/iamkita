@@ -1,4 +1,4 @@
-<img src="readme_header.png" width="500px" height="250px">
+<img src="readme_header.png" width="1500px" height="500px">
 
 <h1> <b>👋🏻Hello World👋🏻</b> </h1>
 
