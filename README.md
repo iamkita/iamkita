@@ -1,4 +1,4 @@
-<img src="Ankita%20Ganguly.png" width="30px">
+<img src="readme_header.png" width="30px">
 
 <h1> <b>👋🏻Hello World👋🏻</b> </h1>
 
