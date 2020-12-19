@@ -6,4 +6,4 @@ I'm Ankita Ganguly, a middle school student who loves programming. Twelve year o
 
 - 🌱 I’m currently learning Python and Web Dev
 - 😄 Pronouns: She, her, hers
-- ⚡ Fun fact: I started coding with block codes :)
+- ⚡ Fun fact: If I would ever have to choose between Python and Javascript, my choice would be Python :)
