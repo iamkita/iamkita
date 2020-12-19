@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/iamkita/<OWNER>/<OWNER>/readme_header.mp4)]
+<img src="readme_header.mp4" width="30px">
 
 👋🏻Hello World👋🏻
 
