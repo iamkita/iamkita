@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/iamkita/<OWNER>/<OWNER>/Ankita Ganguly.png "Header")]
+[![Header](https://raw.githubusercontent.com/iamkita/<OWNER>/<OWNER>/readme_header.png "Header")]
 
 👋🏻Hello World👋🏻
 
