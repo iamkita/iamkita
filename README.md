@@ -9,6 +9,7 @@ I'm Ankita Ganguly, a middle school student who loves programming. Twelve year o
 - 🌞 Python and Javascript are my main skills. 
 - ⚡ Fun fact: If I would ever have to choose between Python and Javascript, my choice would be Python :)
 
-<h1> <b>💻Follow Me🏻💻</b> </h1>
+<h1> <b>💻Follow Me💻</b> </h1>
 CodePen - <a href= "https://codepen.io/i_am_kita" target="_blank"> Profile 1 </a>
+<br>
 Repl.it - <a href= "https://repl.it/@iamkita" target="_blank"> Profile 2 </a>
