@@ -2,7 +2,7 @@
 
 <h1> <b>👋🏻Hello World👋🏻</b> </h1>
 
-I'm Ankita Ganguly, a pythoneer. Currently, I'm learning AI.
+I'm Ankita Ganguly, a pythoneer. Currently, I'm learning AI. That's all.
 
 - 🌱 I’m currently learning AI and ML.
 - 😄 Pronouns: She, her, hers
