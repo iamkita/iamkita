@@ -10,5 +10,3 @@ I'm Ankita Ganguly, a pythoneer. Currently, I'm learning AI. I love listening to
 
 <h1> <b> 💻Follow Me💻 </b> </h1>
 CodePen - <a href= "https://codepen.io/i_am_kita" target="_blank"> Click Here </a>
-<br>
-Repl.it - <a href= "https://repl.it/@iamkita" target="_blank"> Click Here </a>
