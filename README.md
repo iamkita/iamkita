@@ -7,7 +7,6 @@ I'm Ankita Ganguly, a pythoneer. Currently, I'm learning AI. I love listening to
 - 🌱 I’m currently learning AI and ML.
 - 😄 Pronouns: She, her, hers
 - 🌞 Skills: VS Code, Python, JavaScript, HTML, and CSS. 
-- ⚡ Fun fact: I'm a 12 year old.
 
 <h1> <b> 💻Follow Me💻 </b> </h1>
 CodePen - <a href= "https://codepen.io/i_am_kita" target="_blank"> Click Here </a>
