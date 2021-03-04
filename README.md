@@ -10,5 +10,4 @@ I'm Ankita Ganguly, a 12 year old pythoneer. Currently, I'm learning AI. I love 
 
 <h1> <b> 💻Follow Me💻 </b> </h1>
 CodePen - <a href= "https://codepen.io/i_am_kita" target="_blank"> Click Here </a>
-<br>
-Repl.it - <a href= "https://repl.it/@iamkita" target="_blank"> Click Here </a>
+
