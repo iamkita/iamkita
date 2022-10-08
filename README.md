@@ -1,1 +1,1 @@
-<img src="pic.jpg" margin-left="100px" width="650px" height="300px">
+<img src="pic.jpg" margin-left="100px" width="650px" height="650px">
